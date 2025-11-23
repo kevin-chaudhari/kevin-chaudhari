@@ -85,6 +85,3 @@ My professional experience spans **backend development, cloud-native systems, de
 </p>
 
 ---
-
-## 🔗 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/chaudhari-kevin)
