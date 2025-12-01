@@ -76,15 +76,14 @@ My professional experience spans **backend development, cloud-native systems, de
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kevin-chaudhari&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats-yourname.vercel.app/api?username=kevin-chaudhari&show_icons=true&theme=tokyonight" 
     alt="GitHub Stats"
   />
   <br/>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-chaudhari&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=kevin-chaudhari&layout=compact&theme=tokyonight" 
     alt="Top Languages"
   />
 </p>
