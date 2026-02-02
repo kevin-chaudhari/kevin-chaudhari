@@ -1,5 +1,3 @@
-
-
 <!--
 **kevin-chaudhari/kevin-chaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -74,15 +72,4 @@ My professional experience spans **backend development, cloud-native systems, de
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
----
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=kevin-chaudhari&show_icons=true&theme=tokyonight&hide_border=true" 
-  alt="GitHub Stats"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-chaudhari&layout=compact&theme=tokyonight&hide_border=true" 
-  alt="Top Languages"
-/>
 ---
