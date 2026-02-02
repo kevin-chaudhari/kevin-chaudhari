@@ -24,8 +24,8 @@ My professional experience spans **backend development, cloud-native systems, de
 
 
 ## 🔗 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/chaudhari-kevin)  
-[GitHub](https://github.com/kevin-chaudhari)
+### **[LinkedIn](https://www.linkedin.com/in/chaudhari-kevin)**
+### **[GitHub](https://github.com/kevin-chaudhari)**
 
 ---
 
