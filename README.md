@@ -147,18 +147,18 @@ My professional experience spans **backend development, cloud-native systems, de
 
 
 ## 🚀 What I’m Currently Working On
--Full-stack software development using React, Node.js, Express, and FastAPI
--AI/ML systems for disease prediction, risk analysis, and intelligent decision-making
-Data-driven analytics pipelines using Python, SQL, Pandas, and deep learning frameworks
--Cloud-native deployment on AWS with Docker, CI/CD, and scalable backend architectures
+- Full-stack software development using React, Node.js, Express, and FastAPI
+- AI/ML systems for disease prediction, risk analysis, and intelligent decision-making
+- Data-driven analytics pipelines using Python, SQL, Pandas, and deep learning frameworks
+- Cloud-native deployment on AWS with Docker, CI/CD, and scalable backend architectures
 
 ---
 
 ## 🤝 Open To
--Software Engineering (Backend / Full-Stack) roles
--Data Science & Machine Learning Engineering opportunities
--AI-driven product development and applied research
--High-impact open-source collaborations in ML, analytics, and cloud systems
+- Software Engineering (Backend / Full-Stack) roles
+- Data Science & Machine Learning Engineering opportunities
+- AI-driven product development and applied research
+- High-impact open-source collaborations in ML, analytics, and cloud systems
 
 ---
 
