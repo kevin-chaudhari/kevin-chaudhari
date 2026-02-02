@@ -23,9 +23,12 @@ I am a Software Engineer and Machine Learning practitioner specializing in backe
 My professional experience spans **backend development, cloud-native systems, deep learning pipelines, data engineering, and reinforcement learning**. I enjoy building high-impact systems that integrate efficient backend architectures with intelligent ML models.
 
 
-## 🔗 Connect With Me
-### **[LinkedIn](https://www.linkedin.com/in/chaudhari-kevin)**
-### **[GitHub](https://github.com/kevin-chaudhari)**
+## 🔗 Connect With Me  
+
+- 💼 **LinkedIn**: https://www.linkedin.com/in/chaudhari-kevin/
+- 💻 **GitHub**: https://github.com/kevin-chaudhari
+- 📫 **Email**: chaudharikevin21@gmail.com  
+
 
 ---
 
@@ -141,3 +144,27 @@ My professional experience spans **backend development, cloud-native systems, de
 
 
 ---
+
+
+## 🚀 What I’m Currently Working On
+-Full-stack software development using React, Node.js, Express, and FastAPI
+-AI/ML systems for disease prediction, risk analysis, and intelligent decision-making
+Data-driven analytics pipelines using Python, SQL, Pandas, and deep learning frameworks
+-Cloud-native deployment on AWS with Docker, CI/CD, and scalable backend architectures
+
+---
+
+## 🤝 Open To
+-Software Engineering (Backend / Full-Stack) roles
+-Data Science & Machine Learning Engineering opportunities
+-AI-driven product development and applied research
+-High-impact open-source collaborations in ML, analytics, and cloud systems
+
+---
+
+⭐ *If you like my work, feel free to star repositories and connect with me!*
+
+
+
+
+
